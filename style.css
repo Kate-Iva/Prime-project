@@ -10,3 +10,8 @@
     background-size: cover;
     background-position: bottom;
 }
+.brand-icon img{
+    width: 150px;
+    height: auto;
+
+}

@@ -1,0 +1,37 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 340 78" width="340" height="78">
+	<title>Prime-Inspire-Logo</title>
+	<defs>
+		<linearGradient id="g1" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-32.144,-32.144,32.144,-32.144,42.526,42.526)">
+			<stop offset="0" stop-color="#662d91"/>
+			<stop offset="1" stop-color="#1c75bc"/>
+		</linearGradient>
+		<linearGradient id="g2" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-36.089,-36.089,75.305,-75.305,70.577,70.577)">
+			<stop offset="0" stop-color="#fff200"/>
+			<stop offset="1" stop-color="#ed1c29"/>
+		</linearGradient>
+	</defs>
+	<style>
+		tspan { white-space:pre } 
+		.s0 { fill: url(#g1) } 
+		.s1 { fill: url(#g2) } 
+		.s2 { fill: #ffffff } 
+		.t3 { font-size: 36px;fill: #ffffff;font-weight: 700;font-family: "Alexandria-Bold", "Alexandria" } 
+	</style>
+	<g>
+		<path fill-rule="evenodd" class="s0" d="m38.3 75.6c-20.6 0-37.3-16.7-37.3-37.3 0-20.6 16.7-37.3 37.3-37.3 20.6 0 37.3 16.7 37.3 37.3 0 20.6-16.7 37.3-37.3 37.3z"/>
+		<path class="s1" d="m65.8 13.1l-52.7 52.7c6.6 6.1 15.5 9.8 25.2 9.8 20.6 0 37.3-16.7 37.3-37.3 0-9.7-3.7-18.6-9.8-25.2z"/>
+		<g>
+			<path class="s2" d="m40.2 20.8c-3.3 0-6.3 0.9-8.8 2.6 1.6 2 1.5 4.6 1.5 4.6v3.9c1.6-2.3 4.2-3.9 7.3-3.9 4.7 0 8.6 3.9 8.6 8.7 0 4.7-3.9 8.6-8.6 8.6-4.7 0-8.6-3.7-8.7-8.4 0 0 0-4.9 0-8.9 0-2-0.6-3.1-1.3-3.8-3.8 3-6.2 7.6-6.2 12.7 0 8.9 7.2 16.2 16.2 16.2 8.9 0 16.1-7.3 16.1-16.2 0-8.9-7.2-16.1-16.1-16.1z"/>
+			<g>
+				<path class="s2" d="m24 43.5c0 0 1.9 5.5 7.4 8.2v4c0 0-0.4 6.2-7.4 6.8z"/>
+			</g>
+			<path fill-rule="evenodd" class="s2" d="m27.7 18.7c-2 0-3.7-1.7-3.7-3.7 0-2.1 1.7-3.7 3.7-3.7 2 0 3.7 1.6 3.7 3.7 0 2-1.7 3.7-3.7 3.7z"/>
+		</g>
+	</g>
+	<g>
+		<text id="Prime Inspire" style="transform: matrix(1,0,0,1,86.577,50.706)" >
+			<tspan x="0" y="0" class="t3">P</tspan><tspan  y="0" class="t3">r</tspan><tspan  y="0" class="t3">i</tspan><tspan  y="0" class="t3">m</tspan><tspan  y="0" class="t3">e</tspan><tspan  y="0" class="t3"> </tspan><tspan  y="0" class="t3">I</tspan><tspan  y="0" class="t3">n</tspan><tspan  y="0" class="t3">s</tspan><tspan  y="0" class="t3">p</tspan><tspan  y="0" class="t3">i</tspan><tspan  y="0" class="t3">r</tspan><tspan  y="0" class="t3">e
+</tspan>
+		</text>
+	</g>
+</svg>
